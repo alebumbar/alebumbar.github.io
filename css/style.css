@@ -1,0 +1,55 @@
+p {
+    color: olive;
+    font-size: 26px;
+}
+
+header {
+    background-color: orange;
+}
+
+footer {
+    background-color: lightcoral;
+}
+
+a:link {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:visited {
+    color:seagreen;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#education {
+    border: 3px solid red;
+}
+
+#skills-list {
+    background-color: aliceblue;
+    padding: 36px;
+}
+
+.top-skill {
+    font-weight: bold;
+    background-color: teal;
+    color: papayawhip;
+}
+
+.date {
+    border: 2px solid steelblue;
+    border-radius: 12px;
+    padding: 16px;
+}
+
+.special {
+    text-transform: uppercase;
+    background-color: papayawhip;
+}
+
+#proud {
+    font-size: 48px;
+}
